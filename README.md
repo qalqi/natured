@@ -2,7 +2,7 @@
   <img src="./art/logo.png" width="90px"/>
 </p>
 <h1 align="center">
-  Figma → React Native
+  Natured - Figma to React Native
 </h1>
 <h3 align="center">
   <a href="https://www.figma.com/community/plugin/821138713091291738">
@@ -51,7 +51,6 @@
 
 - [Discord Channel](https://discord.com/invite/TzhDRyj)
 - [Figma Forums](https://forum.figma.com/t/react-component-generator/14236)
-- [Discussions](https://github.com/kat-tax/figma/discussions)
-- [Issues](https://github.com/kat-tax/figma/issues)
+- [Discussions](https://github.com/qalqi/figma/discussions)
+- [Issues](https://github.com/qalqi/figma/issues)
 
-> _Disclaimer: This plugin __does not require__ an account, remote service, or any other bullsh*t. There will be an optional paid service for syncing and collaboration features to support development. Donations are also welcome._
